@@ -4,7 +4,7 @@ This repository hosts a deep learning model for dog breed classification, traine
 
 Dataset & Setup --
 
-Dataset Source: [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+Dataset Source:  [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
 Storage Recommendation: Upload datasets to a dedicated Google Drive folder to minimize local storage usage and enable seamless access via Google Colab.
 
